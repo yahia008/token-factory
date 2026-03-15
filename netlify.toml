@@ -1,5 +1,3 @@
 [build]
-  command = "npm run build" 
-  base = "token-factory"       
-  publish = ".next" 
-                  
+  command = "npm run build"
+  publish = ".next"
