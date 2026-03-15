@@ -1,9 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-    reactStrictMode: true,
-  output: "export",      // enable static HTML export
-  trailingSlash: true, 
+  /* config options here */
 };
 
 export default nextConfig;
